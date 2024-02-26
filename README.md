@@ -1,2 +1,2 @@
 # machine-learning-experiments
-A collection of notebooks with experiments on machine learning algorithms
+A collection of my notebooks with experiments on machine learning algorithms
